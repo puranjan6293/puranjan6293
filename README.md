@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puranjan Mallik</h1>
-<h3 align="center">a Btech student at NIT Rourkela with a passion for software development. My expertise lies in programming languages such as Java, Python, and Dart, as well as the Flutter framework for cross-platform mobile app development. I'm also skilled in using Firebase for app development and have a solid understanding of data structures and algorithms. My experience includes developing Android and iOS applications using Flutter, and I'm constantly seeking new challenges to help me grow as a developer.</h3>
+<h3 align="center">My expertise lies in programming languages such as Java, Python, and Dart, as well as the Flutter framework for cross-platform mobile app development. I'm also skilled in using Firebase for app development and have a solid understanding of data structures and algorithms. My experience includes developing Android and iOS applications using Kotlin, Jetpack Compose, Flutter, and I'm constantly seeking new challenges to help me grow as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puranjan6293&label=Profile%20views&color=0e75b6&style=flat" alt="puranjan6293" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/puranjanmallik" target="blank"><img src="https://img.shields.io/twitter/follow/puranjanmallik?logo=twitter&style=for-the-badge" alt="puranjanmallik" /></a> </p>
 
-- 🔭 I’m currently working on [Airprompt's](https://play.google.com/store/apps/details?id=puranjan.airprompt.com&hl=en-IN)
+- 🔭 I’m currently working on [10Jobs](https://play.google.com/store/apps/details?id=tenjob.app&pcampaignid=web_share)
 
 - 🌱 I’m currently learning **Flutter Flame**
 
-- 👯 I’m looking to collaborate on [Admino](https://github.com/puranjan6293/Admino)
+- 👯 I’m looking to collaborate on [MemoX4](https://play.google.com/store/apps/details?id=com.memox4.game&pcampaignid=web_share)
 
-- 👨‍💻 All of my projects are available at [https://puranjan-nitr-web.web.app/#/](https://puranjan-nitr-web.web.app/#/)
+- 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/developer?id=Puranjanics)
 
 - 💬 Ask me about **Flutter, Dart, Java, Python, DSA, Mobile App Development**
 
 - 📫 How to reach me **mallik.puranjan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19jpkm35I24pakfyZ7NHBD44vxDSJu-5Q/view?usp=sharing](https://drive.google.com/file/d/19jpkm35I24pakfyZ7NHBD44vxDSJu-5Q/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11aXMp7_Iw4oGU4CrKvhFPwlrpOMU25lT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Jod😒**
 
